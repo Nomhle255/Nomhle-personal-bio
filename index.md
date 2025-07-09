@@ -21,13 +21,10 @@ I grew up in Quthing, Ha Makoae, where my passion for technology and software de
 As a Software Engineering student, I’ve gained a strong foundation in computer science concepts such as data structures, algorithms, and object-oriented programming. My academic journey has been filled with hands-on projects where I applied my knowledge in real-world scenarios. I have worked with multiple programming languages, including Java, C#, and C++, and developed expertise in understanding how to write efficient, maintainable code.
 
 ### Goals
-The Africa Code Academy Engineering Residency Program 2025 is an exciting opportunity for me to improve my practical skills and grow as a software developer. Through this remote internship, I hope to:
 - Expand my knowledge in areas like backend development and apply it to real-world projects.
 - Work on meaningful projects that challenge me and help me improve both technically and professionally.
 - Collaborate with industry experts and other students from around the world, learning from different perspectives and experiences.
 - Gain experience in remote work, developing the skills needed to manage projects and communicate effectively in a global tech environment.
-- I want to build innovative software solutions that solve real-world problems and make a positive impact.
-
 
 ## Projects
 ### Internship Management System
@@ -35,7 +32,7 @@ The Internship Management System allows employees to add, edit, and delete avail
 
 ## Contact
 - **Email:** nomhle.cathala@africacode.academy
-- **LinkedIn:** https://www.linkedin.com/in/nomhle-cathala-978b7b35b/
+- **LinkedIn:** Nomhle Cathala
 - **GitHub:** https://github.com/Nomhle255
 
 ---
