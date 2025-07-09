@@ -1,7 +1,7 @@
 # My Personal Bio
 
 ## About Me
-Hello! My name is Nomhle. I am a participant in the Africa Code Academy Engineering Residency Program 2024.
+Hello! My name is Nomhle. I am a participant in the Africa Code Academy Engineering Residency Program 2025.
 
 ## Background
 - **Name:** Nomhle Cathala
